@@ -68,6 +68,6 @@ class Solution(object):
  
 obj=Solution()
 arr=[2,-2,0,0,1,1,2]
-print(obj.fourSum(arr))
+print(obj.fourSum(arr,0))
 #time complexity:-O(n^3)
 #space complexity:-O(1)
